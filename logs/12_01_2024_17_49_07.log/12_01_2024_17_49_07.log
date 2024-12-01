@@ -1,0 +1,2 @@
+[ 2024-12-01 17:49:10,651 ] 69 root - INFO - Entered initiated_data_ingestion method of data_integration class
+[ 2024-12-01 17:49:10,651 ] 46 root - INFO - Exporting data from mongodb
