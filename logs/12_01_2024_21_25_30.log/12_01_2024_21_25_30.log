@@ -1,0 +1,10 @@
+[ 2024-12-01 21:25:36,346 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-12-01 21:25:36,361 ] 224 werkzeug - INFO -  * Debugger PIN: 641-304-531
+[ 2024-12-01 21:25:51,773 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/Dec/2024 21:25:51] "GET / HTTP/1.1" 200 -
+[ 2024-12-01 21:25:52,203 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/Dec/2024 21:25:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-12-01 21:26:02,110 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/Dec/2024 21:26:02] "GET /predict HTTP/1.1" 200 -
+[ 2024-12-01 21:26:02,144 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/Dec/2024 21:26:02] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2024-12-01 21:26:02,321 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/Dec/2024 21:26:02] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2024-12-01 21:26:16,801 ] 80 root - INFO - predictions completed
+[ 2024-12-01 21:26:16,802 ] 51 root - INFO - prediction completed. Downloading prediction file.
+[ 2024-12-01 21:26:16,820 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/Dec/2024 21:26:16] "POST /predict HTTP/1.1" 200 -
